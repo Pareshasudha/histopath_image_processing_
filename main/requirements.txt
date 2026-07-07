@@ -1,0 +1,16 @@
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+pydicom
+SimpleITK
+opencv-python
+albumentations
+tqdm
+jupyter
+ipykernel
+scipy
+scikit-image
